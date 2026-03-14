@@ -1,73 +1,31 @@
-# Welcome to your Lovable project
+# Modern Exports — House of Modern Embroidery
 
-## Project info
+![Modern Exports Banner](https://raw.githubusercontent.com/aimen-ansari/modern-exports/main/src/assets/hero-embroidery.jpg)
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## ⚜️ Project Vision
+Modern Exports is a premium e-commerce portfolio designed for an international B2B audience. Specialized in high-end hand-embroidery and intricate beadwork on unstitched fabrics, this platform serves as a digital atelier for global couture houses and fashion designers.
 
-## How can I edit this code?
+The project prioritizes **craftsmanship, heritage, and precision**, reflecting the brand's identity as a leader in artisanal textile exports since 1982.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## ✨ Key Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+- **Luxury User Experience:** Built with a "less is more" aesthetic, utilizing a champagne-gold and charcoal color palette.
+- **Fluid Motion:** Implemented `Framer Motion` for sophisticated reveal animations and `Lenis` for smooth, weighted parallax scrolling.
+- **Technical Detail:** High-definition macro imagery sections to showcase the physical texture of embroidery to international buyers.
+- **Performance Optimized:** Built on **Vite** and **React** for near-instant load times across different global regions.
+- **Glassmorphic UI:** Advanced CSS techniques providing "glassy" text overlays for enhanced readability on intricate backgrounds.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **Framework:** [React](https://reactjs.org/) (Vite)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Animations:** [Framer Motion](https://www.framer.com/motion/)
+- **Scrolling:** [Lenis Scroll](https://github.com/darkroomengineering/lenis)
+- **Language:** TypeScript
+- **UI Components:** shadcn/ui
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
