@@ -35,7 +35,7 @@ const HeroSection = () => {
               transition={{ duration: 1, delay: 0.5 }}
               className="font-serif text-5xl md:text-7xl lg:text-8xl text-cream leading-[0.95] mb-10"
             >
-              The Art of
+              The Modern Art of
               <br />
               <em className="italic">Beads & Stone</em>
             </motion.h1>
@@ -51,7 +51,7 @@ const HeroSection = () => {
               <p className="text-white text-lg md:text-xl font-medium leading-relaxed drop-shadow-lg">
                 We Create High-End Hand-Embroidered Fabrics And Unique Custom
                 Dresses For Special Occasions. Each piece, a masterwork of
-                modern and precision.
+                heritage and precision.
               </p>
             </motion.div>
 
