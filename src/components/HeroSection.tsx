@@ -35,9 +35,9 @@ const HeroSection = () => {
               transition={{ duration: 1, delay: 0.5 }}
               className="font-serif text-5xl md:text-7xl lg:text-8xl text-cream leading-[0.95] mb-10"
             >
-              The Modern Art of
+              The Modern Art
               <br />
-              <em className="italic">Beads & Stone</em>
+              <em className="italic"> of Beads & Stone</em>
             </motion.h1>
 
             {/* Glassy Description Box */}
