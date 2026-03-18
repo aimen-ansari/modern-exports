@@ -37,7 +37,7 @@ const HeroSection = () => {
             >
               The Art of
               <br />
-              <em className="italic">Thread & Stone</em>
+              <em className="italic">Beads & Stone</em>
             </motion.h1>
 
             {/* Glassy Description Box */}
@@ -51,7 +51,7 @@ const HeroSection = () => {
               <p className="text-white text-lg md:text-xl font-medium leading-relaxed drop-shadow-lg">
                 We Create High-End Hand-Embroidered Fabrics And Unique Custom
                 Dresses For Special Occasions. Each piece, a masterwork of
-                heritage and precision.
+                modern and precision.
               </p>
             </motion.div>
 
