@@ -62,28 +62,20 @@ const Footer = () => {
               <span className="hidden md:inline text-cream/10">|</span>
             </div>
 
-             <div className="flex items-center gap-2">
             <a
-              href="https://aimenansari.site/"
+              href="https://aimenansari.site"
               target="_blank"
               rel="noreferrer"
-              className="text-sm md:text-base text-white/55 transition-colors hover:text-amber-300"
+              className="flex w-full max-w-sm flex-col items-center gap-2 rounded-2xl bg-white/5 px-4 py-3 text-sm text-cream/70 transition-all hover:text-gold hover:bg-white/10 sm:flex-row sm:justify-center md:justify-start"
             >
-              Developed By.
-            </a>
-            <a
-              href="https://aimenansari.site/"
-              className="group block transition-opacity hover:opacity-80"
-            >
+              <span className="font-medium">Developed by</span>
               <img
                 src={aaimen}
-                alt="Aimen Ansari Signature"
+                alt="Aimen Ansari"
                 className="object-contain brightness-110 contrast-125 filter"
               width={64}
-             
               />
             </a>
-          </div>
           </div>
 
           <div className="flex gap-6">
