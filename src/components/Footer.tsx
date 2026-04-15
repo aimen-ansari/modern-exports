@@ -62,20 +62,33 @@ const Footer = () => {
               <span className="hidden md:inline text-cream/10">|</span>
             </div>
 
+             <div className="mt-14 flex flex-col items-center justify-between gap-5 border-t border-white/10 pt-8 md:flex-row">
+          <p className="text-sm md:text-base text-white/55">
+            © 2026 Stahl Tech Leather Whips. All rights reserved.
+          </p>
+          <div className="flex items-center gap-2">
             <a
-              href="https://aimenansari.site"
+              href="https://aimenansari.site/"
               target="_blank"
               rel="noreferrer"
-              className="flex w-full max-w-sm flex-col items-center gap-2 rounded-2xl bg-white/5 px-4 py-3 text-sm text-cream/70 transition-all hover:text-gold hover:bg-white/10 sm:flex-row sm:justify-center md:justify-start"
+              className="text-sm md:text-base text-white/55 transition-colors hover:text-amber-300"
             >
-              <span className="font-medium">Developed by</span>
+              Developed By.
+            </a>
+            <a
+              href="https://aimenansari.site/"
+              className="group block transition-opacity hover:opacity-80"
+            >
               <img
                 src={aaimen}
-                alt="Aimen Ansari"
+                alt="Aimen Ansari Signature"
                 className="object-contain brightness-110 contrast-125 filter"
               width={64}
+             
               />
             </a>
+          </div>
+        </div>
           </div>
 
           <div className="flex gap-6">
