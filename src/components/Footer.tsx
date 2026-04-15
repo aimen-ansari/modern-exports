@@ -79,7 +79,7 @@ const Footer = () => {
                 src={aaimen}
                 alt="Aimen Ansari Signature"
                 className="object-contain brightness-110 contrast-125 filter"
-              width={64}
+              width={74}
              
               />
             </a>
