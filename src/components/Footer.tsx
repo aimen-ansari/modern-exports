@@ -54,41 +54,25 @@ const Footer = () => {
 
         {/* Bottom bar */}
         <div className="border-t border-cream/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-          <div className="flex w-full flex-col items-center justify-between gap-3 text-center md:flex-row md:text-left">
-            <div className="flex items-center gap-2">
-              <p className="text-sm text-cream/30">
-                © {new Date().getFullYear()} ModernExports. All rights reserved.
-              </p>
-              <span className="hidden md:inline text-cream/10">|</span>
-            </div>
-
-             <div className="mt-14 flex flex-col items-center justify-between gap-5 border-t border-white/10 pt-8 md:flex-row">
-          <p className="text-sm md:text-base text-white/55">
-            © 2026 Stahl Tech Leather Whips. All rights reserved.
-          </p>
           <div className="flex items-center gap-2">
+            <p className="text-xs text-cream/30">
+              © {new Date().getFullYear()} ModernExports. All rights reserved.
+            </p>
+            <span className="text-cream/10">|</span>
             <a
-              href="https://aimenansari.site/"
+              href="https://aimenansari.site"
               target="_blank"
               rel="noreferrer"
-              className="text-sm md:text-base text-white/55 transition-colors hover:text-amber-300"
+              className="flex items-center gap-2 text-xs text-cream/30 hover:text-gold transition-all group"
             >
-              Developed By.
-            </a>
-            <a
-              href="https://aimenansari.site/"
-              className="group block transition-opacity hover:opacity-80"
-            >
+              <span>Developed by</span>
               <img
                 src={aaimen}
-                alt="Aimen Ansari Signature"
-                className="object-contain brightness-110 contrast-125 filter"
-              width={64}
-             
+                alt="Aimen Ansari"
+                className="opacity-90 object-contain group-hover:opacity-100 transition-all duration-300 brightness-205"
+                 width={64}
               />
             </a>
-          </div>
-        </div>
           </div>
 
           <div className="flex gap-6">
