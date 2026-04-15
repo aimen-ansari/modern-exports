@@ -71,6 +71,7 @@ const Footer = () => {
                 alt="Aimen Ansari"
                 className="opacity-90 object-contain group-hover:opacity-100 transition-all duration-300 brightness-205"
                  width={84}
+                 height={auto}
               />
             </a>
           </div>
