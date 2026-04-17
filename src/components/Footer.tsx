@@ -107,7 +107,7 @@ export default function Footer() {
               </li>
               <li>
                 <a href={supportLink('inquiry')} target="_blank" rel="noreferrer" className="transition-colors hover:text-gold">
-                  +92 321 611 2116
+                 +92 323 5620045
                 </a>
               </li>
               <li>
