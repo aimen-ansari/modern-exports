@@ -12,7 +12,7 @@ const WhatsAppIcon = () => (
 );
 
 const WhatsAppButton = () => {
-  const whatsappNumber = "923216112116";
+  const whatsappNumber = "923235620045";
   const message = "Hi! I want to ask something about your services.";
   
   // This creates the proper link format for WhatsApp
