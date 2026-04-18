@@ -43,22 +43,34 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#our-story" className="transition-colors hover:text-gold">
+                <a
+                  href="#our-story"
+                  className="transition-colors hover:text-gold"
+                >
                   Our Story
                 </a>
               </li>
               <li>
-                <a href="#collections" className="transition-colors hover:text-gold">
+                <a
+                  href="#collections"
+                  className="transition-colors hover:text-gold"
+                >
                   Collections
                 </a>
               </li>
               <li>
-                <a href="#atelier" className="transition-colors hover:text-gold">
+                <a
+                  href="#atelier"
+                  className="transition-colors hover:text-gold"
+                >
                   Atelier
                 </a>
               </li>
               <li>
-                <a href="#contact" className="transition-colors hover:text-gold">
+                <a
+                  href="#contact"
+                  className="transition-colors hover:text-gold"
+                >
                   Contact
                 </a>
               </li>
@@ -72,22 +84,34 @@ export default function Footer() {
             </h4>
             <ul className="space-y-3 text-base text-cream/65">
               <li>
-                <a href="#our-story" className="transition-colors hover:text-gold">
+                <a
+                  href="#our-story"
+                  className="transition-colors hover:text-gold"
+                >
                   Our Story
                 </a>
               </li>
               <li>
-                <a href="#atelier" className="transition-colors hover:text-gold">
+                <a
+                  href="#atelier"
+                  className="transition-colors hover:text-gold"
+                >
                   Craftsmanship
                 </a>
               </li>
               <li>
-                <a href="#collections" className="transition-colors hover:text-gold">
+                <a
+                  href="#collections"
+                  className="transition-colors hover:text-gold"
+                >
                   Collections
                 </a>
               </li>
               <li>
-                <a href="#contact" className="transition-colors hover:text-gold">
+                <a
+                  href="#contact"
+                  className="transition-colors hover:text-gold"
+                >
                   Contact
                 </a>
               </li>
@@ -101,21 +125,35 @@ export default function Footer() {
             </h4>
             <ul className="space-y-3 text-base text-cream/65">
               <li>
-                <a href="mailto:modernexports@gmail.com" className="transition-colors hover:text-gold">
+                <a
+                  href="mailto:modernexports@gmail.com"
+                  className="transition-colors hover:text-gold"
+                >
                   modernexports@gmail.com
                 </a>
-                <br />
-                <a href="mailto:info@moderncoexports.com" className="transition-colors hover:text-gold">
-                 info@moderncoexports.com
+              </li>
+              <li>
+                <a
+                  href="mailto:info@moderncoexports.com"
+                  className="transition-colors hover:text-gold"
+                >
+                  info@moderncoexports.com
                 </a>
               </li>
               <li>
-                <a href={supportLink('inquiry')} target="_blank" rel="noreferrer" className="transition-colors hover:text-gold">
-                 +92 323 5620045
+                <a
+                  href={supportLink("inquiry")}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="transition-colors hover:text-gold"
+                >
+                  +92 323 5620045
                 </a>
               </li>
               <li>
-                <p className="uppercase text-sm tracking-widest">Sialkot, Pakistan</p>
+                <p className="uppercase text-sm tracking-widest">
+                  Sialkot, Pakistan
+                </p>
               </li>
             </ul>
           </div>
