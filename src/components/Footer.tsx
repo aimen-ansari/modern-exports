@@ -104,6 +104,9 @@ export default function Footer() {
                 <a href="mailto:modernexports@gmail.com" className="transition-colors hover:text-gold">
                   modernexports@gmail.com
                 </a>
+                <a href="mailto:info@moderncoexports.com" className="transition-colors hover:text-gold">
+                 info@moderncoexports.com
+                </a>
               </li>
               <li>
                 <a href={supportLink('inquiry')} target="_blank" rel="noreferrer" className="transition-colors hover:text-gold">
