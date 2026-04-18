@@ -104,6 +104,7 @@ export default function Footer() {
                 <a href="mailto:modernexports@gmail.com" className="transition-colors hover:text-gold">
                   modernexports@gmail.com
                 </a>
+                <br />
                 <a href="mailto:info@moderncoexports.com" className="transition-colors hover:text-gold">
                  info@moderncoexports.com
                 </a>
