@@ -57,9 +57,9 @@ const CollectionsGrid = () => {
         >
           <p className="text-xs tracking-editorial text-gold mb-4">Our Fabrics</p>
           <h2 className="font-serif text-4xl md:text-5xl lg:text-6xl text-foreground leading-tight">
-            Curated
+            What 
             <br />
-            <em className="italic text-muted-foreground">Collections</em>
+            <em className="italic text-muted-foreground">We Make</em>
           </h2>
           <div className="divider-gold mt-8" />
         </motion.div>
